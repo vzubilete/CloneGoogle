@@ -111,6 +111,7 @@ main .main-input .micro-icon{
     background-size: contain;
     width: 22px;
     height: 22px;
+    padding-right: 25px;
     margin-top: 11px;
     cursor: pointer;
 }
